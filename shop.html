@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop</title>
+
+    <link rel="stylesheet" href="shop.css">
+    <link rel="icon" href="images/favicon.png">
+
+</head>
+
+<body>
+    <header>
+        
+
+
+        <nav>
+            <div id="marker"></div>
+            <a href="bakeryhomepage.html"> Home</a>
+            <a href="#"> Features</a>
+            <a href="shop.html"> Shop</a>
+            <a href="#"> Services</a>
+            <a href="#"> Feedback</a>
+            <a href="aboutuspage.html"> About Us</a>
+            <a href="#">Contact Us</a>
+
+        </nav>
+
+    </header>
+
+    <section>
+
+        <div class="container">
+            <div class="box">
+                <h2 class="name">Birthday Cake</h2>
+                <a href="buy1.html" class="buy">Buy Now</a>
+                <div class="circle"></div>
+                <img src="images/cake2.png" class="product">
+            </div>
+
+            <div class="box">
+                <h2 class="name">Wedding Cake</h2>
+                <a href="buy2.html" class="buy">Buy Now</a>
+                <div class="circle"></div>
+                <img src="images/cake.png" class="product">
+            </div>
+
+            <div class="box">
+                <h2 class="name">POPPY BAGEL</h2>
+                <a href="buy3.html" class="buy">Buy Now</a>
+                <div class="circle"></div>
+                <img src="images/bakery2.png" class="product">
+            </div>
+
+        </div>
+
+        <script src="vanilla-tilt.min.js"></script>
+        <script>VanillaTilt.init(document.querySelectorAll(".box"), {
+                max: 25,
+                speed: 400
+            });
+        </script>
+
+    </section>
+
+</body>
+
+</html>
