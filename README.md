@@ -18,4 +18,8 @@ This is a online bakery website where you can see how the website works and add 
 ## How to use
 The Bakery website is a free online store which you can use as Project.
 
--To run this website in your computer firstly install Xaamp software 
+- To run this website in your computer first install Xampp software.
+
+- After that make sure the server is live on its localhost and enjoy it.
+
+- Finally, the Data of the order will be visible on the backend on the PHP myAdmin server.
