@@ -22,4 +22,8 @@ The Bakery website is a free online store which you can use as Project.
 
 - After that make sure the server is live on its localhost and enjoy it.
 
-- Finally, the Data of the order will be visible on the backend on the PHP myAdmin server.
+- Finally, the Data of an order will be visible on the backend on the PHP myAdmin server.
+## Note
+
+Here is a Website Link to see the live demo Also Provided in About Section.
+- rohanisamazing.github.io/bakery/ 
