@@ -1,7 +1,7 @@
 
 # Online Bakery Website
 
-This is a online bakery website where you can see how the website works and add bakery stuffs to order. Also when people don't want to go out and stand in queue for long hours. 
+This is a online bakery website where you can see how the website works and add bakery stuffs to order. Also when people don't want to go out and stand in queue for long hours.
  
 
 
